@@ -395,9 +395,9 @@
                      112
                   ]
                ],
-               "id":"BOLZANO/BOZEN",
+               "id":"BOLZANO",
                "properties":{
-                  "nome_pro":"BOLZANO/BOZEN"
+                  "nome_pro":"BOLZANO"
                }
             },
             {
@@ -696,9 +696,9 @@
                      178
                   ]
                ],
-               "id":"FORLI'-CESENA",
+               "id":"FORLÌ-CESENA",
                "properties":{
-                  "nome_pro":"FORLI'-CESENA"
+                  "nome_pro":"FORLÌ-CESENA"
                }
             },
             {
@@ -1503,9 +1503,9 @@
                      367
                   ]
                ],
-               "id":"MONZA E DELLA BRIANZA",
+               "id":"MONZA E BRIANZA",
                "properties":{
-                  "nome_pro":"MONZA E DELLA BRIANZA"
+                  "nome_pro":"MONZA E BRIANZA"
                }
             },
             {
